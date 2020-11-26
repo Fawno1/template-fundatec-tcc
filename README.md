@@ -2,10 +2,11 @@
 ![Meu Projeto](https://lh3.googleusercontent.com/proxy/0I8qvDlb4uvrtuPDaQVAHs7sQJg_qpF4XWP8C1S1sBXRyE4FAxSl_e2JxEjd2ToML-goG3ZzcVncIBu4KzAlDdx50BHPAaXZ4gC0elGPTT3B-jrsTcEug1qrwz-tzRD18kd_BT0 "Meu Trabalho TCC" )
 
 ## Metafora Problema
-Lorem Ipsum Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin congue auctor arcu vel pharetra. Mauris sit amet vehicula diam. In vestibulum finibus est, tempus feugiat nibh dignissim quis. Nam pharetra aliquam ligula, ut laoreet elit mollis tempor. Etiam non interdum enim. Integer risus ex, consectetur quis velit non, pretium venenatis mauris. Aenean sit amet pellentesque metus, a imperdiet eros. Fusce sit amet ante enim. Sed pretium mauris id est euismod egestas. In efficitur sit amet risus non ultrices.
+Imagine um cenário onde vários funcionários de uma empresa, naturalmente precisam realizar uma refeição durante o expediente. Na hora do almoço, por exemplo, encontra-se alguns obstáculos. Tais quais o funcionário não sabe onde almoçar, quer ter uma economia ou quer almoçar sem perder muito tempo.
+
 
 ## Descrição da solução
-Lorem Ipsum Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Proin congue auctor arcu vel pharetra. Mauris sit amet vehicula diam. In vestibulum finibus est, tempus feugiat nibh dignissim quis. Nam pharetra aliquam ligula, ut laoreet elit mollis tempor. Etiam non interdum enim. Integer risus ex, consectetur quis velit non, pretium venenatis mauris. Aenean sit amet pellentesque metus, a imperdiet eros. Fusce sit amet ante enim. Sed pretium mauris id est euismod egestas. In efficitur sit amet risus non ultrices.
+Criar um aplicativo que facilite ao cozinheiro a venda de seus cardápios sem muita burocracia.
 
 ## [Diagramas](/doc/tecnica/README.md) 
 
