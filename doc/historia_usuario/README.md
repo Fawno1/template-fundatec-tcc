@@ -7,23 +7,85 @@
 
 ### **História 1:**
 
-**Como um(a)**  QUEM?
+**Como um(a)**  Cliente
 
-**Quero** O QUE?
+**Quero** Realizar um pedido
 
-**Para** PROPOSITO?
+**Para** Que eu possa receber meu almoço
 
 __
 
 
 ## CENÁRIOS
 
-**Cenário 1: XYZ**
+**Cenário 1: ** Realizar cadastro de um novo Consumidor
 
-**Dado que** ?? 
+**Dado que** entrei no menu de cadastro
 
-**Quando**   ??
+**E** preenchi os dados(CPF, nome, email)
 
-**Então**    ??
+**Quando** clicar em confirmar
+
+**Então** estarei apto para realizar um pedido
+
+
+**Cenário 2: ** Realizar pedido
+
+**Dado que** vou realizar um pedido
+
+**E** já estou logado
+
+**Quando** visualizar o menu diário
+
+**E** e escolher a opção desejada
+
+**Então** o pedido pode ser finalizado
+
+
+**Cenário 3: ** Carteira virtual
+
+**Dado que** quero verificar o saldo atual da carteira
+
+**E** já estou logado
+
+**Quando** entrar na carteira virtual
+
+**Então** poderei verificar quanto devo ou possuo nela
+
+
+**Cenário 4: ** Realizar pagamento
+
+**Dado que** vou realizar o pagamento
+
+**E** já estou logado
+
+**Quando** selecionar o método pagamento
+
+**E** o sistema autenticar
+
+**Então** o pagamento será realizado.
+
+
+### **História 2:**
+
+**Como um(a)**  Chef
+
+**Quero** Realizar entregas
+
+**Para** Que eu possa enviar meus produtos
+
+
+## CENÁRIOS 
+
+
+**Cenário 1: ** Realizar o envio do pedido
+
+**Dado que** recebi a descrição do pedido
+
+**E** selecionei os ingredientes
+
+**Quando** Eu terminar o preparo
+
+**Então** estarei apto para o envio do pedido do consumidor
 
 __
