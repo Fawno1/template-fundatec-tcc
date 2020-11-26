@@ -13,8 +13,8 @@
 
 **Para** Que eu possa receber meu almoço
 
-__
 
+__
 
 ## CENÁRIOS
 
@@ -28,6 +28,7 @@ __
 
 **Então** estarei apto para realizar um pedido
 
+__
 
 **Cenário 2: ** Realizar pedido
 
@@ -42,6 +43,7 @@ __
 **Então** o pedido pode ser finalizado
 
 
+__
 **Cenário 3: ** Carteira virtual
 
 **Dado que** quero verificar o saldo atual da carteira
@@ -52,6 +54,7 @@ __
 
 **Então** poderei verificar quanto devo ou possuo nela
 
+__
 
 **Cenário 4: ** Realizar pagamento
 
@@ -65,6 +68,7 @@ __
 
 **Então** o pagamento será realizado.
 
+__
 
 ### **História 2:**
 
@@ -73,6 +77,8 @@ __
 **Quero** Realizar entregas
 
 **Para** Que eu possa enviar meus produtos
+
+__
 
 
 ## CENÁRIOS 
