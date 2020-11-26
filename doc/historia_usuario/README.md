@@ -18,7 +18,7 @@ __
 
 ## CENÁRIOS
 
-**Cenário 1: ** Realizar cadastro de um novo Consumidor
+**Cenário 1:  Realizar cadastro de um novo Consumidor
 
 **Dado que** entrei no menu de cadastro
 
@@ -30,7 +30,7 @@ __
 
 __
 
-**Cenário 2: ** Realizar pedido
+**Cenário 2:* Realizar pedido
 
 **Dado que** vou realizar um pedido
 
@@ -44,7 +44,9 @@ __
 
 
 __
-**Cenário 3: ** Carteira virtual
+
+
+**Cenário 3:  Carteira virtual
 
 **Dado que** quero verificar o saldo atual da carteira
 
@@ -56,7 +58,7 @@ __
 
 __
 
-**Cenário 4: ** Realizar pagamento
+**Cenário 4:  Realizar pagamento
 
 **Dado que** vou realizar o pagamento
 
@@ -84,7 +86,7 @@ __
 ## CENÁRIOS 
 
 
-**Cenário 1: ** Realizar o envio do pedido
+**Cenário 1:  Realizar o envio do pedido
 
 **Dado que** recebi a descrição do pedido
 
