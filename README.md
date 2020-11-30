@@ -6,7 +6,7 @@ Imagine um cenário onde vários funcionários de uma empresa, naturalmente prec
 
 
 ## Descrição da solução
-Criar um aplicativo que facilite ao cozinheiro a venda de seus cardápios sem muita burocracia.
+Criar uma plataforma que facilite ao cozinheiro a venda de seus cardápios sem muita burocracia.
 
 ## [Diagramas](/doc/tecnica/README.md) 
 
